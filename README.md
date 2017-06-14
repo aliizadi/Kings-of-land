@@ -1,5 +1,5 @@
 # Kings-of-land
-Strategic game 
+Strategic game /n
 map editor
 multi player (network)
 AI
